@@ -6,7 +6,7 @@ function App(props) {
   return <div>
               
               Hello World from app.js Updated!!!
-              <div>Welcome <b>{props.name} {props.age - 10} years old </b> in Bootcamp 2020</div>
+              <div>Welcome <b>{props.name} {props.age} years old </b> in Bootcamp 2020</div>
               <br />
               <Hello></Hello>
 
