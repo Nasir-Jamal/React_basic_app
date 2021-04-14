@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.div_name {color: blueviolet;
+           font-size: medium;
+           background-color: brown;}
+.span_ {color: darkcyan;
+        background-color: darkgoldenrod;}           
+.div_App {color: cadetblue;
+          background-color: chartreuse;   }
+.div_ol {color: aqua;
+         background-color: violet;}   
+.div_ul {color: chartreuse;
+          background-color: crimson;}                
